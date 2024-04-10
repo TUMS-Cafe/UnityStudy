@@ -2329,13 +2329,17 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 2994172731102408267, guid: 3e52768500b47452f8021ceb455afcb6, type: 3}
+      propertyPath: m_Drag
+      value: 5
+      objectReference: {fileID: 0}
     - target: {fileID: 4610042561059468668, guid: 3e52768500b47452f8021ceb455afcb6, type: 3}
       propertyPath: m_RootOrder
       value: 5
       objectReference: {fileID: 0}
     - target: {fileID: 4610042561059468668, guid: 3e52768500b47452f8021ceb455afcb6, type: 3}
       propertyPath: m_LocalPosition.x
-      value: -1.35
+      value: -1.01
       objectReference: {fileID: 0}
     - target: {fileID: 4610042561059468668, guid: 3e52768500b47452f8021ceb455afcb6, type: 3}
       propertyPath: m_LocalPosition.y
