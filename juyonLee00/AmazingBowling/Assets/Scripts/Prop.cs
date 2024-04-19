@@ -24,6 +24,8 @@ public class Prop : MonoBehaviour
             AudioSource explosionAudio = instance.GetComponent<AudioSource>();
             explosionAudio.Play();
 
+            GameManager.instance.AddScore(score);
+
             //Instantiate - Destroy를 하면 CPU에 무리가 가므로 재활용할 예정.
             gameObject.SetActive(false);
         }

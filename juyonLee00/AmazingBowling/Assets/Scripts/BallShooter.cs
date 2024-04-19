@@ -5,6 +5,9 @@ using UnityEngine.UI;
 
 public class BallShooter : MonoBehaviour
 {
+    //볼 쏘면 볼로 카메라 트래킹 대상 변환되도록 설정 
+    public CamFollow cam;
+
     public Rigidbody ball;
 
     public Transform firePos;
@@ -93,7 +96,9 @@ public class BallShooter : MonoBehaviour
 
         shootingAudio.clip = fireClip;
         shootingAudio.Play();
-
         currentForce = minForce;
+
+        cam.SetTarget(ballInstance.transform, CamFollow.State.Tracking);
+        //버그 : 날아가서 바닥에 닿지 않을 경우 계속 카메라가 따라가서 원래대로 위치 복구 불가 .
     }
 }

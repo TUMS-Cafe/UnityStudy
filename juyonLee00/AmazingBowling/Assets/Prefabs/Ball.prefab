@@ -35,7 +35,7 @@ Transform:
   m_Children:
   - {fileID: 799606237992209328}
   m_Father: {fileID: 0}
-  m_RootOrder: 4
+  m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!33 &221243044513099483
 MeshFilter:
@@ -168,6 +168,10 @@ PrefabInstance:
       propertyPath: m_PlayOnAwake
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 499425609899517716, guid: 42565b590ae2d4fa39ca4708f735bbf7, type: 3}
+      propertyPath: OutputAudioMixerGroup
+      value: 
+      objectReference: {fileID: 2815012405471953063, guid: eb37600a4bf014f1389495827931e7ef, type: 2}
     - target: {fileID: 2945490178491781237, guid: 42565b590ae2d4fa39ca4708f735bbf7, type: 3}
       propertyPath: playOnAwake
       value: 0
