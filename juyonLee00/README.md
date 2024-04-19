@@ -13,5 +13,6 @@
 |2. C# 프로그래밍 기본|1주차(0403~0409)|[C# 기본](https://www.notion.so/2-C-57cb8c2786b44f2fa77f7a2eabd3fe38?pvs=4)|Call by Reference, 클래스/오브젝트, double/float GPU 차이|
 |3. 게임 제작 : Sokovan|1주차(0403~0409)|[전반적인 게임 개발](https://www.notion.so/3-ff4d963414e24e439ff5dc8f3cf8fef6?pvs=4)|게임 매니저의 기능, 사운드 및 UI 추가, 기본 충돌 처리|
 |4. C# 중급|2주차(0410~0416)|[게임 개발 핵심 내용](https://www.notion.so/4-C-7210daca033244d6a4cbb86e06269adf?pvs=4)|Quaternion, Instantiate, List, Singletone, Coroutine |
+|5. 게임 제작 : 어메이징 볼링|3주차(0417~0423)|[볼링 게임 만들기](https://www.notion.so/5-55cacb9ea914457987699ff941172e9d?pvs=4)|오디오 믹싱, 물체 랜덤 스폰, UI 사용법 기본 |
 
 
