@@ -6,4 +6,4 @@
 |3주차(4/17~4/23)|4/23(화)|섹션 2. C# 프로그래밍 : 기본|https://rare-son-ebf.notion.site/3-4-17-4-23-1b65ee6488b3486583a7f067bcc091d8?pvs=4|
 |4주차(4/24~5/1)|4/25(목)|섹션 3. 게임 제작 : 소코반(창고지기)|https://rare-son-ebf.notion.site/4-4-24-5-1-50567d66b17244c6a5615a45e03926b4?pvs=4|
 |4주차(4/24~5/1)|4/27(토)|섹션 4. C# 프로그래밍: 중급 (1/2)|https://rare-son-ebf.notion.site/4-4-24-5-1-50567d66b17244c6a5615a45e03926b4?pvs=4|
-|4주차(4/24~5/1)|5/2(목)|섹션 5. 게임 제작 : 어메이징 볼링|https://rare-son-ebf.notion.site/5-5-2-5-8-165f2d33a6584482bcd2a55f9a5caa55?pvs=4|
+|5주차(5/2~5/8)|5/2(목)|섹션 5. 게임 제작 : 어메이징 볼링|https://rare-son-ebf.notion.site/5-5-2-5-8-165f2d33a6584482bcd2a55f9a5caa55?pvs=4|
