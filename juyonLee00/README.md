@@ -18,5 +18,10 @@
 |7. C# 프로그래밍 : 고급|4주차(0424~0501)|[C# 프로그래밍 고급](https://www.notion.so/7-C-856c777ebfc845249c238c541b55ba7f?pvs=4)|이벤트, 액션, 람다함수 |
 |8. 레퍼런스 : 유니티 애니메이션|4주차(0424~0501)|[애니메이션](https://www.notion.so/8-f024a43b5aad48e8b6313f158246e386?pvs=4)|애니메이션, 블렌드 트리, 레이어, IK |
 |9. 레퍼런스 : UGUI|4주차(0424~0501)|[UGUI](https://www.notion.so/9-UGUI-f897e124582d40e682eef53c890e18a6?pvs=4)|UGUI 기본적 요소|
+|10. 게임 제작 : 좀비 TPS(3인칭 슈터 게임) PART 1/3|5주차(0502~0508)|[플레이어 세팅]([https://www.notion.so/9-UGUI-f897e124582d40e682eef53c890e18a6?pvs=4](https://www.notion.so/10-TPS-3-PART-1-3-f0a0fca777434fa18ea8b7f7e764d393?pvs=4)|플레이어 애니메이션 및 기본 설정, UI매니저, 파티클매니저, 이펙트매니저, 무기|
+|11. 게임 제작 : 좀비 TPS(3인칭 슈터 게임) PART 2/3|5주차(0502~0508)|[적 세팅](https://www.notion.so/11-TPS-3-PART-2-3-be07b2ca6b964a0e8e4ba6b5dede9252?pvs=4)|플레이어 생명, 적AI, 네비게이션|
+|12. 게임 제작 : 좀비 TPS(3인칭 슈터 게임) PART 3/3|5주차(0502~0508)|[게임 마무리](https://www.notion.so/12-TPS-3-PART-3-3-fc736c67bcb64dfaba2c1b7cab9d6c9f?pvs=4)|게임매니저, 아이템, 오브젝트 스폰, 포스트프로세싱|
+
+
 
 
