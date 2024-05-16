@@ -8,3 +8,5 @@
 |4주차(4/24~5/1)|4/27(토)|섹션 4. C# 프로그래밍: 중급 (1/2)|https://rare-son-ebf.notion.site/4-4-24-5-1-50567d66b17244c6a5615a45e03926b4?pvs=4|
 |5주차(5/2~5/8)|5/2(목)|섹션 5. 게임 제작 : 어메이징 볼링|https://rare-son-ebf.notion.site/5-5-2-5-8-165f2d33a6584482bcd2a55f9a5caa55?pvs=4|
 |6주차(5/9~5/15)|5/13(월)|섹션 6. C# 프로그래밍: 중급 (2/2)|https://rare-son-ebf.notion.site/6-5-9-5-15-bb6aa09232704ed28db64083edddc93d?pvs=4|
+|7주차(5/16~5/22)|5/16(목)|섹션 7. C# 프로그래밍: 고급|https://rare-son-ebf.notion.site/7-5-16-5-22-6d418a7ff0e94b00b033bf50d47e05d4?pvs=4|
+|7주차(5/16~5/22)|5/16(목)|섹션 8. 레퍼런스 : 유니티 애니메이션|https://rare-son-ebf.notion.site/7-5-16-5-22-6d418a7ff0e94b00b033bf50d47e05d4?pvs=4|
